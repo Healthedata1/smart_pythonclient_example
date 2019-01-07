@@ -1,0 +1,7 @@
+﻿row,mrn,f_name,l_name,mi,b_sex,gender,b_date,lang,race_cat_1,race_cat_2,race_cat_3,race_det_1,race_det_2,ethn_cat,ethn_det_1,ethn_det_2
+1000,1032702,Amy,Shaw,"V,",F,female,2007-02-20,en|English,2106-3|White,1002-5|American Indian or Alaska Native,2028-9|Asian,1586-7|Shoshone,2036-2|Filipino,Hispanic or Latino,2184-0|Dominican,2148-5|Mexican
+1001,1798520,Harold,Thalburg,G,M,male,1964-06-19,en|English,2106-3|White,,,2116-2|Scottish,,Non Hispanic or Latino,,
+1002,1827981,Josef,Banks,E,M,male,1954-01-03,de-AT|German (Austria),ASKU|Asked but no answer,,,,,Non Hispanic or Latino,,
+1003,1234568,Marie,Espinoza,,F,female,1980-02-02,es|Spanish,2106-3|White,,,,,Hispanic or Latino,2180-8|Puerto Rican,
+1004,7855521,Sofia,Juarez,,F,female,1986-08-10,es|Spanish,2106-3|White,,,,,Hispanic or Latino,2148-5|Mexican,
+1005,1258622,An,Nguyen,P,M,male,1990-10-15,en|English,2028-9|Asian,,,2047-9|Vietnamese,,Non Hispanic or Latino,,
