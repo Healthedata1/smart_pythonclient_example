@@ -5,5 +5,6 @@ that conforms to the [US Core Patient Profile](http://hl7.org/fhir/us/core/Struc
 
 To open the notebook (static view only) click on the file:
 
--  [US Core STU3 Patient Example](smart_python_client.ipynb)
+-  [Argonaut DSTU2 Patient Example](Argo-patient-example.ipynb)
 -  [Argonaut DSTU2 Medication Statement Example](Argo-medstatement-example.ipynb)
+-  [US Core STU3 Patient Example](smart_python_client.ipynb)
