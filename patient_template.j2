@@ -1,0 +1,23 @@
+<div xmlns="http://www.w3.org/1999/xhtml">
+  <h2>Patient: {{p.id}}</h2>
+<br />
+
+
+<p>
+<b> status</b>: {% if p.active %}active{% else %}inactive{% endif %}
+</p>
+
+<p>
+<b>Name</b>: {{p.name[0].text}}
+</p>
+<p>
+<b>DOB</b>: {{p.birthDate.as_json()}}
+</p>
+<p>
+<b>Gender</b>: {{p.gender}}
+</p>
+<p>
+<b>Contact Information</b>: {%if p.telecom[0] and p.telecom[0].system == 'phone'%}{{p.telecom[0].value}}({{p.telecom[0].use}}){% endif %}
+</p>
+
+<hr></hr>
