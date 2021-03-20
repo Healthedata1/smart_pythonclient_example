@@ -18,7 +18,7 @@ ipywidgets==7.4.2
 isodate==0.6.0
 jdcal==1.4
 jedi==0.13.2
-Jinja2==2.10
+Jinja2==2.11.3
 jupyter==1.0.0
 jupyter-client==5.2.4
 jupyter-console==6.0.0
